@@ -1,5 +1,5 @@
 //
-//  main.m
+//  Patient.h
 //  PatientDoctor
 //
 //  Created by Alain  on 2015-05-07.
@@ -8,8 +8,9 @@
 
 #import <Foundation/Foundation.h>
 
-int main()
-{
-    
-    return 0;
-}
+@interface Patient : NSObject
+
+@property(nonatomic,strong) NSString* name;
+@property(nonatomic,assign) int age;
+
+@end
