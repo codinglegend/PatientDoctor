@@ -65,9 +65,9 @@
 			children = (
 				B511290C1AFBDB2500D6CB79 /* main.m */,
 				B5F65EF91AFBEDBA00E65C72 /* Patient.h */,
+				B5F65EFA1AFBEDBA00E65C72 /* Patient.m */,
 				B5F65EFC1AFBEE7D00E65C72 /* Doctor.h */,
 				B5F65EFD1AFBEE7D00E65C72 /* Doctor.m */,
-				B5F65EFA1AFBEDBA00E65C72 /* Patient.m */,
 			);
 			path = PatientDoctor;
 			sourceTree = "<group>";
